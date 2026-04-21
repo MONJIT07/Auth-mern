@@ -1,7 +1,7 @@
 # 🔐 Auth MERN — Full-Stack Authentication System
 
 A production-ready, full-stack authentication system built with the **MERN** stack (MongoDB, Express, React, Node.js). Features complete user authentication with JWT tokens stored in HTTP-only cookies, OTP-based email verification, and a secure password reset flow — all wrapped in a polished React + Tailwind CSS UI.
-
+🚀 Live Demo:https://auth-mern-client-eosin.vercel.app/
 ---
 
 ## ✨ Features
